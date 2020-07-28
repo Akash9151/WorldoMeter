@@ -1,0 +1,10 @@
+make welcome page > logo and the name of the app 
+
+
+ #TODO -->
+
+ List of Countries  ---> Where User can select a country
+
+
+input page > location of the user 
+shows the result according  to the location 
